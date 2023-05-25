@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RK7Query>
+    <RK7Command2 CMD="GetRefData" RefName="Prices" onlyActive="1" PropMask="items.(OBJECTID, VALUE)"/>
+</RK7Query>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RK7Query>
+    <RK7Command2 CMD="GetRefData" RefName="MenuItems" onlyActive="0" PropMask="items.(IDENT, NAME)"/>
+</RK7Query>
